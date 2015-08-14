@@ -96,13 +96,15 @@ function f(){
           if (is_col0) {
             node.style.left = origin.x + 'px';
             node.style.top = col0_y + 'px';
-            node.classList.add('col0');
+            node.setAttribute('data-height', node.clientHeight);
             col0_y += node.clientHeight;
+            node.classList.add('col0');
           } else {
             node.style.left = col1_x + 'px';
             node.style.top = col1_y + 'px';
-            node.classList.add('col1');
+            node.setAttribute('data-height', node.clientHeight);
             col1_y += node.clientHeight;
+            node.classList.add('col1');
           }
         }
       }
@@ -126,11 +128,13 @@ function setup(){
   }
 }
 
-if (window.addEventListener) {
-  window.addEventListener('DOMContentLoaded', setup);
-} else {
-  window.attachEvent('onload', setup);
-}
+// if (window.addEventListener) {
+//   window.addEventListener('DOMContentLoaded', setup);
+// } else {
+//   window.attachEvent('onload', setup);
+// }
+
+window.initFuncs.push(setup);
 
 })();
 </script>

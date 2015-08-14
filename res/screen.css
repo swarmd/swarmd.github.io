@@ -273,10 +273,10 @@ a.post-excerpt {
   a.post-excerpt:nth-child(2) div.padded-content {
     padding-top: 60px;
   }
-  a.post-excerpt.col0 div.padded-content {
+  a.post-excerpt:nth-child(odd) div.padded-content {
     padding-right:40px;
   }
-  a.post-excerpt.col1 div.padded-content {
+  a.post-excerpt:nth-child(even) div.padded-content {
     padding-left:40px;
   }
   a.post-excerpt.photo {
