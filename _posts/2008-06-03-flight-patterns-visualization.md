@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [aviation, animation, data, usa, visualization]
-tumblr_id: 1121195029
-disqus_comments: true
+tumblr_id: 1121195029  
 date: 2008-06-03 08:33:31 UTC
 title: Flight Patterns Visualization
 ---

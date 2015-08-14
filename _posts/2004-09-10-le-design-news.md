@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133070673
-disqus_comments: true
+tumblr_id: 1133070673  
 date: 2004-09-10 08:08:51 UTC
 title: le design news
 ---

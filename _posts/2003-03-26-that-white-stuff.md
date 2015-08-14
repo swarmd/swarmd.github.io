@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133045996
-disqus_comments: true
+tumblr_id: 1133045996  
 date: 2003-03-26 23:02:27 UTC
 title: That white stuff
 ---

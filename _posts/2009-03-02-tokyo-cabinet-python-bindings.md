@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [python, code, dbm, tokyocabinet, software]
-tumblr_id: 1102106108
-disqus_comments: true
+tumblr_id: 1102106108  
 date: 2009-03-02 09:48:00 UTC
 title: Tokyo Cabinet Python bindings
 ---

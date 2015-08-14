@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [beads, flash, flickr]
-tumblr_id: 1133084810
-disqus_comments: true
+tumblr_id: 1133084810  
 date: 2007-02-20 10:00:00 UTC
 title: Pärlplatta aka Plastic Beads
 ---

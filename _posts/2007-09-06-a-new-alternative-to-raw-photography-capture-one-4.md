@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [photography, phase one]
-tumblr_id: 1133086998
-disqus_comments: true
+tumblr_id: 1133086998  
 date: 2007-09-06 09:01:40 UTC
 title: Alternative to RAW development – Capture One 4
 ---

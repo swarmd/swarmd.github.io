@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133044077
-disqus_comments: true
+tumblr_id: 1133044077  
 date: 2003-01-24 10:36:21 UTC
 title: good afternoon
 ---

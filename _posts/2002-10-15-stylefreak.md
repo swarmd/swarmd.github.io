@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1121206903
-disqus_comments: true
+tumblr_id: 1121206903  
 date: 2002-10-15 16:17:51 UTC
 title: Stylefreak
 ---

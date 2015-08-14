@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1121206773
-disqus_comments: true
+tumblr_id: 1121206773  
 date: 2002-09-24 12:25:43 UTC
 title: Arre + Sigmund = ?
 ---

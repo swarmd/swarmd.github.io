@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1121204095
-disqus_comments: true
+tumblr_id: 1121204095  
 date: 2002-05-22 09:00:00 UTC
 title: Playing with Fire
 ---

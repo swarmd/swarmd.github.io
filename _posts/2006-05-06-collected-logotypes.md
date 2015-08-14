@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [logo, work, old, identity]
-tumblr_id: 1133082967
-disqus_comments: true
+tumblr_id: 1133082967  
 date: 2006-05-06 09:00:00 UTC
 title: Collected Logotypes
 ---

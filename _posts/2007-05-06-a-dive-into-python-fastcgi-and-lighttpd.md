@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [python, lighttpd, fastcgi]
-tumblr_id: 1133086125
-disqus_comments: true
+tumblr_id: 1133086125  
 date: 2007-05-06 21:44:20 UTC
 title: A dive into Python, FastCGI and Lighttpd
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133069332
-disqus_comments: true
+tumblr_id: 1133069332  
 date: 2003-08-24 20:46:13 UTC
 title: Hovden Stitch
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133043283
-disqus_comments: true
+tumblr_id: 1133043283  
 date: 2003-01-20 20:56:47 UTC
 title: Skatan shoots it nice
 ---

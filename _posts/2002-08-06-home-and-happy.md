@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1121205981
-disqus_comments: true
+tumblr_id: 1121205981  
 date: 2002-08-06 10:44:40 UTC
 title: Home and happy
 ---

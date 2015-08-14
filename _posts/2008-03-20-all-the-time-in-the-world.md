@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [functional, visualisation]
-tumblr_id: 1111978447
-disqus_comments: true
+tumblr_id: 1111978447  
 date: 2008-03-20 09:15:11 UTC
 title: All The Time in The World
 ---

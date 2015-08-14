@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133047059
-disqus_comments: true
+tumblr_id: 1133047059  
 date: 2003-05-21 18:54:59 UTC
 title: Alchemy with light
 ---

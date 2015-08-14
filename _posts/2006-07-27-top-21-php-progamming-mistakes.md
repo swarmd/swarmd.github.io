@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133083654
-disqus_comments: true
+tumblr_id: 1133083654  
 date: 2006-07-27 09:00:00 UTC
 title: Top 21 PHP progamming mistakes
 ---

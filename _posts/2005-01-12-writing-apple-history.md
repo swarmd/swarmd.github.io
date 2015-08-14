@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133071487
-disqus_comments: true
+tumblr_id: 1133071487  
 date: 2005-01-12 17:15:59 UTC
 title: writing apple-history
 ---

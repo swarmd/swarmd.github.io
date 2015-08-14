@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [pink, jacob åström, prank]
-tumblr_id: 1133086260
-disqus_comments: true
+tumblr_id: 1133086260  
 date: 2007-05-17 07:52:30 UTC
 title: Jacobslägenhet goes Pink
 ---

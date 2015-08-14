@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133084872
-disqus_comments: true
+tumblr_id: 1133084872  
 date: 2007-03-20 00:22:50 UTC
 title: Wordpress, here I come
 ---

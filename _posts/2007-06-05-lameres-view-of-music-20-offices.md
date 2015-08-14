@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [spotify, plamere, office, sun]
-tumblr_id: 1133086445
-disqus_comments: true
+tumblr_id: 1133086445  
 date: 2007-06-05 11:36:10 UTC
 title: Lameres' view of Music 2.0 Offices
 ---

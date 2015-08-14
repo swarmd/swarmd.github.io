@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [irena zablotska, illustration]
-tumblr_id: 1121196804
-disqus_comments: true
+tumblr_id: 1121196804  
 date: 2008-10-15 12:57:47 UTC
 title: Irena Zablotska
 ---

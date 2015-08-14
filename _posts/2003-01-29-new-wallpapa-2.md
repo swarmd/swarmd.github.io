@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133044330
-disqus_comments: true
+tumblr_id: 1133044330  
 date: 2003-01-29 12:20:14 UTC
 title: New Wallpapa
 ---

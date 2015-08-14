@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133084120
-disqus_comments: true
+tumblr_id: 1133084120  
 date: 2006-10-18 09:00:00 UTC
 title: Guðleifsdóttir-pictures hit Reykjavík
 ---

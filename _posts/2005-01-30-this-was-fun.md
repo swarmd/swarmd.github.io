@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133071543
-disqus_comments: true
+tumblr_id: 1133071543  
 date: 2005-01-30 19:25:04 UTC
 title: this was fun
 ---

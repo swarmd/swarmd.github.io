@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133084400
-disqus_comments: true
+tumblr_id: 1133084400  
 date: 2006-11-12 10:00:00 UTC
 title: Take A Look At My Helmet
 ---

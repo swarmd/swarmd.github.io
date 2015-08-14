@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [dbm, database, python, tokyocabinet, tyrant, performance, software]
-tumblr_id: 1102106058
-disqus_comments: true
+tumblr_id: 1102106058  
 date: 2009-02-28 16:20:00 UTC
 title: Tokyo Cabinet
 ---

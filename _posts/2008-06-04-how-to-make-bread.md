@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [humor, instruction, 1980s, video, gymnastics, bread]
-tumblr_id: 1121195066
-disqus_comments: true
+tumblr_id: 1121195066  
 date: 2008-06-04 19:43:10 UTC
 title: How to make bread
 ---

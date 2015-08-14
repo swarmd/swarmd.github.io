@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133068592
-disqus_comments: true
+tumblr_id: 1133068592  
 date: 2003-06-18 20:35:47 UTC
 title: Greg Packer
 ---

@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [aperture, application, photography, apple]
-tumblr_id: 1111976824
-disqus_comments: true
+tumblr_id: 1111976824  
 date: 2008-02-12 13:55:17 UTC
 title: Apple Announces Aperture 2
 ---

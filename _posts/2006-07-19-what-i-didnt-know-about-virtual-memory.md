@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133083452
-disqus_comments: true
+tumblr_id: 1133083452  
 date: 2006-07-19 09:00:00 UTC
 title: What I didn't know about Virtual Memory
 ---

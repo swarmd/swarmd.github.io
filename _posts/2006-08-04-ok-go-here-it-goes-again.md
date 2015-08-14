@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133083733
-disqus_comments: true
+tumblr_id: 1133083733  
 date: 2006-08-04 09:00:00 UTC
 title: OK Go - Here It Goes Again
 ---

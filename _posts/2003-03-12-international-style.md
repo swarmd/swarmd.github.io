@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133045354
-disqus_comments: true
+tumblr_id: 1133045354  
 date: 2003-03-12 22:56:44 UTC
 title: International style
 ---

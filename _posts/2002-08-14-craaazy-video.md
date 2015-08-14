@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1121206125
-disqus_comments: true
+tumblr_id: 1121206125  
 date: 2002-08-14 11:31:33 UTC
 title: Craaazy Video
 ---

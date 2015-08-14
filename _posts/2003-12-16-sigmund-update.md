@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133069778
-disqus_comments: true
+tumblr_id: 1133069778  
 date: 2003-12-16 16:17:34 UTC
 title: Sigmund update
 ---

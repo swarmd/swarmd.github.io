@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1121204356
-disqus_comments: true
+tumblr_id: 1121204356  
 date: 2002-05-28 09:00:00 UTC
 title: Le Theatre
 ---

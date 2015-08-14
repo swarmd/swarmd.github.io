@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [website, politics, america, humor]
-tumblr_id: 1121196677
-disqus_comments: true
+tumblr_id: 1121196677  
 date: 2008-09-29 17:36:09 UTC
 title: America the Gift Shop
 ---

@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [video, music, cross stitch]
-tumblr_id: 1121195961
-disqus_comments: true
+tumblr_id: 1121195961  
 date: 2008-08-11 09:04:31 UTC
 title: Architecture in Helsinki – Like It Or Not
 ---

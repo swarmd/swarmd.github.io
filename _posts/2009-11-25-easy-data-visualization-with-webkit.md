@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [spotify, real-time, visualization, cocui, software]
-tumblr_id: 1102105223
-disqus_comments: true
+tumblr_id: 1102105223  
 date: 2009-11-25 23:21:39 UTC
 title: Easy data visualization with WebKit
 ---

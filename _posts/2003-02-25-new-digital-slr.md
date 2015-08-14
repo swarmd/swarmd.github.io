@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133045014
-disqus_comments: true
+tumblr_id: 1133045014  
 date: 2003-02-25 11:26:54 UTC
 title: new digital slr
 ---

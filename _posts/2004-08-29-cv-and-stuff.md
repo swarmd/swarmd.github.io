@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133070588
-disqus_comments: true
+tumblr_id: 1133070588  
 date: 2004-08-29 19:12:30 UTC
 title: cv and stuff
 ---

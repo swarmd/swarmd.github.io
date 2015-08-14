@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [1980s, justice, video, music]
-tumblr_id: 1111980369
-disqus_comments: true
+tumblr_id: 1111980369  
 date: 2008-04-07 12:44:52 UTC
 title: The Entire 1980s in Three Minutes
 ---

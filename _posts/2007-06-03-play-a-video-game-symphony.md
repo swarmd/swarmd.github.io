@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [orchestra, play, symphony, music]
-tumblr_id: 1133086330
-disqus_comments: true
+tumblr_id: 1133086330  
 date: 2007-06-03 13:51:56 UTC
 title: Play! A Video Game Symphony
 ---

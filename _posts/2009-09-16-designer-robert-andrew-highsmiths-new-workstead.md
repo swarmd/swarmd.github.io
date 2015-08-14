@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [design, furniture, sustainability]
-tumblr_id: 189433851
-disqus_comments: true
+tumblr_id: 189433851  
 date: 2009-09-16 15:42:00 UTC
 title: Robert Highsmith's Workstead table
 ---

@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [per malm, portrait, photography, story]
-tumblr_id: 1121194747
-disqus_comments: true
+tumblr_id: 1121194747  
 date: 2008-05-06 22:56:00 UTC
 title: Portrait of Per
 ---

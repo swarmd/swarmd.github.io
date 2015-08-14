@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [web, amazon, music]
-tumblr_id: 1121194851
-disqus_comments: true
+tumblr_id: 1121194851  
 date: 2008-05-16 11:21:52 UTC
 title: Amazon Clips Widget
 ---

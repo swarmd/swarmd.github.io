@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133083252
-disqus_comments: true
+tumblr_id: 1133083252  
 date: 2006-07-17 09:00:00 UTC
 title: The Internets
 ---

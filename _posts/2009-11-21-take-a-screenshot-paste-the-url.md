@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [osx, application, open source, scrup, software]
-tumblr_id: 1102105253
-disqus_comments: true
+tumblr_id: 1102105253  
 date: 2009-11-21 11:39:49 UTC
 title: Take a screenshot, paste the URL
 ---

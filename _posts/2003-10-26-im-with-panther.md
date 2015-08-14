@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133069567
-disqus_comments: true
+tumblr_id: 1133069567  
 date: 2003-10-26 23:58:24 UTC
 title: I'm with Panther
 ---

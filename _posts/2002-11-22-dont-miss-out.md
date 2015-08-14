@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1121207850
-disqus_comments: true
+tumblr_id: 1121207850  
 date: 2002-11-22 21:38:45 UTC
 title: Don't miss out!
 ---

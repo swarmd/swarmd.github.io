@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133044166
-disqus_comments: true
+tumblr_id: 1133044166  
 date: 2003-01-27 15:41:16 UTC
 title: Shake your coconuts
 ---

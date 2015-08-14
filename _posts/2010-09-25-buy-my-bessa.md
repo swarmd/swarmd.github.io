@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [photography, sale, camera]
-tumblr_id: 1185618753
-disqus_comments: true
+tumblr_id: 1185618753  
 date: 2010-09-25 16:24:00 UTC
 title: Buy my Bessa
 ---

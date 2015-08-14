@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [screensaver, osx]
-tumblr_id: 1133083830
-disqus_comments: true
+tumblr_id: 1133083830  
 date: 2006-08-21 09:00:00 UTC
 title: Black Screensaver for OS X
 ---

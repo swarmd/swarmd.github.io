@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133044378
-disqus_comments: true
+tumblr_id: 1133044378  
 date: 2003-02-01 00:30:31 UTC
 title: Ante Do The Update
 ---

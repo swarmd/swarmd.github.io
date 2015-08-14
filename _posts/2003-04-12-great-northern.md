@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133046211
-disqus_comments: true
+tumblr_id: 1133046211  
 date: 2003-04-12 23:26:50 UTC
 title: Great Northern
 ---

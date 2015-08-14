@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1121203673
-disqus_comments: true
+tumblr_id: 1121203673  
 date: 2002-05-15 09:00:00 UTC
 title: Cluedo's Up
 ---

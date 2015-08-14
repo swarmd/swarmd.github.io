@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [essay, sociology, music, social]
-tumblr_id: 1121195115
-disqus_comments: true
+tumblr_id: 1121195115  
 date: 2008-06-09 08:11:29 UTC
 title: Music is Identity
 ---

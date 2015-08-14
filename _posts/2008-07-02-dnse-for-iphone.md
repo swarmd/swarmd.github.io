@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [dn, website, mobile, ui, iphone, safari, interface]
-tumblr_id: 1121195373
-disqus_comments: true
+tumblr_id: 1121195373  
 date: 2008-07-02 20:32:04 UTC
 title: DN.se for iPhone
 ---

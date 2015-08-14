@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [portrait, nyc, tailor, legend, people]
-tumblr_id: 1121195336
-disqus_comments: true
+tumblr_id: 1121195336  
 date: 2008-06-27 08:36:46 UTC
 title: Martin the Tailor
 ---

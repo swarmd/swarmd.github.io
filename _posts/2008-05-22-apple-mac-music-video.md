@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [video, mac, the bird &amp; the bee, music, apple]
-tumblr_id: 1121194873
-disqus_comments: true
+tumblr_id: 1121194873  
 date: 2008-05-22 14:08:52 UTC
 title: Apple Mac Music Video
 ---

@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [media, market, business, blogosphere]
-tumblr_id: 1121196904
-disqus_comments: true
+tumblr_id: 1121196904  
 date: 2008-10-23 10:51:56 UTC
 title: "Technorati: State of the Blogosphere"
 ---

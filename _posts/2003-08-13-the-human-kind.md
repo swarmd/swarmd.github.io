@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133069160
-disqus_comments: true
+tumblr_id: 1133069160  
 date: 2003-08-13 20:14:44 UTC
 title: the human kind
 ---

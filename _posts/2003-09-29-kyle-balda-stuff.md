@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133069423
-disqus_comments: true
+tumblr_id: 1133069423  
 date: 2003-09-29 13:41:06 UTC
 title: Kyle Balda + stuff
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133068786
-disqus_comments: true
+tumblr_id: 1133068786  
 date: 2003-07-02 14:08:44 UTC
 title: new giant speciemen?
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133045720
-disqus_comments: true
+tumblr_id: 1133045720  
 date: 2003-03-21 10:16:19 UTC
 title: Le Manchester
 ---

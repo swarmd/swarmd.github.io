@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [kod, rambling, ux]
-tumblr_id: 2843044421
-disqus_comments: true
+tumblr_id: 2843044421  
 date: 2011-01-20 16:17:00 UTC
 title: Why I wrote a programmer's text editor
 ---
@@ -19,7 +18,7 @@ It took me about a month of mixed efforts to get my bearings straight. Sure I ha
 
 Since the launch of [Chromium](http://www.chromium.org/) (aka Google Chrome) for Mac, I've been almost kind of fascinated by the ingenuity of Chromium's tab user experience. Not only did they (as in the Chromium UX team) put the tabs as an integral part of the documents they where representing (rather than being part of the frame holding the documents), but also giving a lot of love to details. For instance when you have a bunch of tabs open and you quickly want to close these tabs, you can simply put your mouse over the "x" button of the leftmost tab and then ["click, click, click..."](http://www.theinvisibl.com/news/2009/12/08/a-piece-with-a-lot-of-screenshots-about-the-close-tab-behaviour-in-google-chrome/) — tabs flowing in from the right hand side after a tab is closed will nicely align their "x"-buttons with the previous locations, ultimately making the action of closing several documents an intuitive and no-frills thing users. With my editor, I wanted to borrow this thought-through and well-proven design.
 
-[<img src="http://kodapp.com/icon-256.png" alt="Kod icon" width="256" height="256" align="right">](http://kodapp.com/)After [a few months](http://rsms.me/2010/11/24/building-some-software-while-the-snow-is-gently.html) I had [a first version ready of my editor](http://rsms.me/2010/12/18/starting-to-take-shape.html) and I dubbed it ["Kod"](http://kodapp.com/) from the Swedish word "kod", meaning "code".
+[<img src="/res/kodapp-icon-256.png" alt="Kod icon" width="256" height="256" align="right">](http://kodapp.com/)After [a few months](http://rsms.me/2010/11/24/building-some-software-while-the-snow-is-gently.html) I had [a first version ready of my editor](http://rsms.me/2010/12/18/starting-to-take-shape.html) and I dubbed it ["Kod"](http://kodapp.com/) from the Swedish word "kod", meaning "code".
 
 My idea with the tabs is to provide a good abstraction of things known in the physical world (i.e. a document has a tab), primarily for light-weight users.
 

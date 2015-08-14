@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [color, osx, tool, software]
-tumblr_id: 1121201043
-disqus_comments: true
+tumblr_id: 1121201043  
 date: 2008-12-03 09:25:50 UTC
 title: Colors.app
 ---

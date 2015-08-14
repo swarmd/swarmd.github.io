@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [pr, media, wordpress, spotify]
-tumblr_id: 1121197105
-disqus_comments: true
+tumblr_id: 1121197105  
 date: 2008-11-13 08:50:06 UTC
 title: Wordpress showcases Spotify.com
 ---

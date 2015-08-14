@@ -6,7 +6,7 @@ layout: default
 </div> -->
 <div class="posts">
   <div class="content full-bleed" id="recent-posts">
-  {% for post in site.posts limit:25 %}<a
+  {% for post in site.posts limit:50 %}<a
     href="{{ post.url }}" class="post-excerpt{% if post.photo_url %} photo{% endif %}">
       <div class="padded-content">
         <div class="title">{{ post.title }}</div>
@@ -18,9 +18,9 @@ layout: default
           {{ post.date | date: "%b %Y" }}
         </info>
         {% if post.description %}
-        <span class="body">{{ post.description | strip_html }}</span>
+        <span class="body">{{ post.description | markdownify }}</span>
         {% else %}
-        <span class="body">{{ post.excerpt | strip_html }}</span>
+        <span class="body">{{ post.excerpt | markdownify }}</span>
         {% endif %}
       {% endif %}<!-- post.photo_url -->
       </div>

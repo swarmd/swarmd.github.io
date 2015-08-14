@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133046859
-disqus_comments: true
+tumblr_id: 1133046859  
 date: 2003-05-02 10:18:42 UTC
 title: Idiologic
 ---

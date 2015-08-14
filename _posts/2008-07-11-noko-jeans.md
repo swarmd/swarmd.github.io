@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [fashion, noko, northkorea, jeans, friends, clothes]
-tumblr_id: 1121195652
-disqus_comments: true
+tumblr_id: 1121195652  
 date: 2008-07-11 08:01:57 UTC
 title: Noko Jeans
 ---

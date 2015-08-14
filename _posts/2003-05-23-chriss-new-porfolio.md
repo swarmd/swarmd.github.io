@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133047112
-disqus_comments: true
+tumblr_id: 1133047112  
 date: 2003-05-23 14:20:14 UTC
 title: Chris's new porfolio
 ---

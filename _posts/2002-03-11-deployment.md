@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1121202979
-disqus_comments: true
+tumblr_id: 1121202979  
 date: 2002-03-11 10:00:00 UTC
 title: Deployment
 ---

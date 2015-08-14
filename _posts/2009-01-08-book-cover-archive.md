@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [design, inspiration, print, book]
-tumblr_id: 1102105738
-disqus_comments: true
+tumblr_id: 1102105738  
 date: 2009-01-08 14:40:00 UTC
 title: Book cover archive
 ---

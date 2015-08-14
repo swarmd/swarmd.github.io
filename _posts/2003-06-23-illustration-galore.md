@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133068692
-disqus_comments: true
+tumblr_id: 1133068692  
 date: 2003-06-23 06:53:05 UTC
 title: illustration galore
 ---

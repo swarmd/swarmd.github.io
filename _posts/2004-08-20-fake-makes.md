@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133070292
-disqus_comments: true
+tumblr_id: 1133070292  
 date: 2004-08-20 20:59:53 UTC
 title: Fake makes
 ---

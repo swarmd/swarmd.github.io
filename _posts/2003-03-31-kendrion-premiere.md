@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133046084
-disqus_comments: true
+tumblr_id: 1133046084  
 date: 2003-03-31 19:59:55 UTC
 title: Kendrion premiere
 ---

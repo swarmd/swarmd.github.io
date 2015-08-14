@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [hal, gaia, alles, debian, mail]
-tumblr_id: 1133087046
-disqus_comments: true
+tumblr_id: 1133087046  
 date: 2007-09-23 22:25:20 UTC
 title: Goodbye Gaia, hello HAL
 ---

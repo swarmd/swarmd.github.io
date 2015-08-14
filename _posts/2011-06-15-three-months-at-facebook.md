@@ -3,6 +3,7 @@ title: 3 months at Facebook
 layout: post
 tags: facebook
 fb_comments: 25
+photo_url: http://farm3.static.flickr.com/2111/5821627543_0d25a9079d_z.jpg
 ---
 
 I've now been at [Facebook](http://www.facebook.com/design) in Palo Alto, California for almost three months. And I love it.

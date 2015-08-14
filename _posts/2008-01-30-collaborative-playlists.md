@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [spotify, playlist, music]
-tumblr_id: 1111974813
-disqus_comments: true
+tumblr_id: 1111974813  
 date: 2008-01-30 14:54:45 UTC
 title: Collaborative Playlists
 ---

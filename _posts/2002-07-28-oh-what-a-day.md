@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1121205899
-disqus_comments: true
+tumblr_id: 1121205899  
 date: 2002-07-28 19:37:42 UTC
 title: Oh what a day!
 ---

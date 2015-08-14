@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133046038
-disqus_comments: true
+tumblr_id: 1133046038  
 date: 2003-03-28 11:13:35 UTC
 title: New Dalsa HDCAM
 ---

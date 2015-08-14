@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133045098
-disqus_comments: true
+tumblr_id: 1133045098  
 date: 2003-03-05 12:38:56 UTC
 title: Five greek gerbils
 ---

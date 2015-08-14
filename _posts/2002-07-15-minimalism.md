@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1121205731
-disqus_comments: true
+tumblr_id: 1121205731  
 date: 2002-07-15 09:00:00 UTC
 title: Minimalism
 ---

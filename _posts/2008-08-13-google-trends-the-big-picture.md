@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [visualization, trends, web]
-tumblr_id: 1121196139
-disqus_comments: true
+tumblr_id: 1121196139  
 date: 2008-08-13 10:50:39 UTC
 title: Google Trends – The Big Picture
 ---

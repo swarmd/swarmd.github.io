@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [keywurl, del.icio.us, camino, safari, functional]
-tumblr_id: 1111978907
-disqus_comments: true
+tumblr_id: 1111978907  
 date: 2008-03-20 15:45:00 UTC
 title: From Camino to Safari and easy Del.icio.us tagging
 ---

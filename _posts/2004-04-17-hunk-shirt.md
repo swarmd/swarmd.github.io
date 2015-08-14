@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133070026
-disqus_comments: true
+tumblr_id: 1133070026  
 date: 2004-04-17 11:33:24 UTC
 title: Hunk-shirt
 ---

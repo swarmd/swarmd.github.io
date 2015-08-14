@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133069867
-disqus_comments: true
+tumblr_id: 1133069867  
 date: 2004-02-14 12:02:36 UTC
 title: le new site
 ---

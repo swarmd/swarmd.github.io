@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1121207621
-disqus_comments: true
+tumblr_id: 1121207621  
 date: 2002-11-18 23:17:18 UTC
 title: This morning....
 ---

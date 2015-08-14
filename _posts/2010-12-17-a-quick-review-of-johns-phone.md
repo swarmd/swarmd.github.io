@@ -1,10 +1,10 @@
 ---
 layout: post
 categories: [johnsphone, review]
-tumblr_id: 2348765800
-disqus_comments: true
+tumblr_id: 2348765800  
 date: 2010-12-17 15:26:00 UTC
 title: A quick review of John's Phone
+description: "One thing I really quite like about this phone is the looks of it. I mean, who wouldn’t want a phone that uses the classic The Bomb for the “end call” button?!"
 ---
 
 ![Picture of John's Phone with accessories](http://farm6.static.flickr.com/5001/5268844082_388e53b758_z.jpg)
@@ -15,7 +15,7 @@ First up: physical attributes. The phone itself and all accessories feel really 
 
 Another thing that struck me was the size of the phone -- it's both thicker and broader than an iPhone, but slightly shorter. This was of course no surprise since dimensions are clearly stated in [the specs](http://www.johnsphones.com/about/specifications/item49).
 
-One thing I really quite like about this phone is the looks of it. I mean, who wouldn't want a phone that uses the classic [The Bomb](http://en.wikipedia.org/wiki/Bomb_(symbol)) for the "end call" button?! If you get one of these phone you probably fit within one or both of the following categories:
+One thing I really quite like about this phone is the looks of it. I mean, who wouldn't want a phone that uses the classic [The Bomb](http://en.wikipedia.org/wiki/Bomb_%28symbol%29) for the "end call" button?! If you get one of these phone you probably fit within one or both of the following categories:
 
 1. Extreme minimalist
 2. Addicted to pretty things

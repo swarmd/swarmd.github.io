@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [http, nginx, push, comet, software, pubsub]
-tumblr_id: 1102105581
-disqus_comments: true
+tumblr_id: 1102105581  
 date: 2009-10-01 23:06:00 UTC
 title: Comet/HTTP push with nginx
 ---

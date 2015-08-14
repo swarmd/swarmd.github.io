@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133085249
-disqus_comments: true
+tumblr_id: 1133085249  
 date: 2007-04-05 16:20:15 UTC
 title: Happy Easter
 ---

@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [markdown, gitblog, software]
-tumblr_id: 1102104716
-disqus_comments: true
+tumblr_id: 1102104716  
 date: 2009-10-05 07:24:16 UTC
 title: Gitblog says it in Markdown
 ---

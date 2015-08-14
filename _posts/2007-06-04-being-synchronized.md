@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [life, synchronisation, productiveness, sync]
-tumblr_id: 1133086411
-disqus_comments: true
+tumblr_id: 1133086411  
 date: 2007-06-04 15:10:32 UTC
 title: Being synchronized
 ---

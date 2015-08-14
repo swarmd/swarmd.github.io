@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133070497
-disqus_comments: true
+tumblr_id: 1133070497  
 date: 2004-08-27 13:06:42 UTC
 title: tennis and photos
 ---

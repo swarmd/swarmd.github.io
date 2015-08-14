@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133071038
-disqus_comments: true
+tumblr_id: 1133071038  
 date: 2004-10-22 06:38:12 UTC
 title: Bruhn + Sydsvenskan
 ---

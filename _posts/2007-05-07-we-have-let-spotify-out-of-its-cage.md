@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [spotify, beta, launch]
-tumblr_id: 1133086191
-disqus_comments: true
+tumblr_id: 1133086191  
 date: 2007-05-07 11:32:58 UTC
 title: We have let Spotify out of it's cage
 ---

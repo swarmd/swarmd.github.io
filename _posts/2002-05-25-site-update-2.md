@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1121204241
-disqus_comments: true
+tumblr_id: 1121204241  
 date: 2002-05-25 09:00:00 UTC
 title: Site Update
 ---

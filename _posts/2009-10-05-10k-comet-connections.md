@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [http, nginx, push, comet, software, pubsub]
-tumblr_id: 1102104542
-disqus_comments: true
+tumblr_id: 1102104542  
 date: 2009-10-05 00:00:00 UTC
 title: 10 000 comet connections
 ---

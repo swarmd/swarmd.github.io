@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [project, work, commissioned, advertising]
-tumblr_id: 1102104578
-disqus_comments: true
+tumblr_id: 1102104578  
 date: 2009-10-26 13:48:01 UTC
 title: Don't push the button
 ---

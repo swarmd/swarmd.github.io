@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133084024
-disqus_comments: true
+tumblr_id: 1133084024  
 date: 2006-10-10 09:00:00 UTC
 title: Faithful camera
 ---

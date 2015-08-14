@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1121206087
-disqus_comments: true
+tumblr_id: 1121206087  
 date: 2002-08-13 22:15:55 UTC
 title: Gotland Photos
 ---

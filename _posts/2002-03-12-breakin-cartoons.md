@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1121203010
-disqus_comments: true
+tumblr_id: 1121203010  
 date: 2002-03-12 10:00:00 UTC
 title: Breakin' Cartoons
 ---

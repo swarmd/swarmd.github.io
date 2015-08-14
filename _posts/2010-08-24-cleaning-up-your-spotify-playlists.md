@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [spotify, ui, trick]
-tumblr_id: 1134423123
-disqus_comments: true
+tumblr_id: 1134423123  
 date: 2010-08-24 12:45:00 UTC
 title: Cleaning up your Spotify playlists
 ---

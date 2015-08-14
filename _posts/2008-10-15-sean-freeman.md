@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [graphic, design, typography]
-tumblr_id: 1121196867
-disqus_comments: true
+tumblr_id: 1121196867  
 date: 2008-10-15 13:03:25 UTC
 title: Sean Freeman
 ---

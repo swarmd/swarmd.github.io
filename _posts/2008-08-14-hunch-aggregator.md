@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [essay, web, hunch, python, aggregation, php, software]
-tumblr_id: 1121196228
-disqus_comments: true
+tumblr_id: 1121196228  
 date: 2008-08-14 17:19:44 UTC
 title: Hunch Aggregator
 ---

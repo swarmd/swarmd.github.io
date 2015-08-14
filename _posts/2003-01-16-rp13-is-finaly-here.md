@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133043199
-disqus_comments: true
+tumblr_id: 1133043199  
 date: 2003-01-16 22:57:48 UTC
 title: RP13 is finaly here
 ---

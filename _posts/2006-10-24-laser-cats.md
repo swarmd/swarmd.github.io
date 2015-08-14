@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133084232
-disqus_comments: true
+tumblr_id: 1133084232  
 date: 2006-10-24 09:00:00 UTC
 title: Laser Cats
 ---

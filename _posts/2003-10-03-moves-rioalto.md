@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133069467
-disqus_comments: true
+tumblr_id: 1133069467  
 date: 2003-10-03 16:21:47 UTC
 title: moves + Rioalto
 ---

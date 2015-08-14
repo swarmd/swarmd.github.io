@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [spotify, anniversary]
-tumblr_id: 1102105066
-disqus_comments: true
+tumblr_id: 1102105066  
 date: 2009-10-07 21:59:00 UTC
 title: Happy birthday, Spotify.app!
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133046472
-disqus_comments: true
+tumblr_id: 1133046472  
 date: 2003-04-16 02:09:21 UTC
 title: photo update
 ---

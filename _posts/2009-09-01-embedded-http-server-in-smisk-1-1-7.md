@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [smisk, software]
-tumblr_id: 1102105450
-disqus_comments: true
+tumblr_id: 1102105450  
 date: 2009-09-01 13:33:00 UTC
 title: Embedded HTTP server in Smisk 1.1.7
 ---

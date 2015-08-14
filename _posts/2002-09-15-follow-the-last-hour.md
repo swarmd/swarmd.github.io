@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1121206624
-disqus_comments: true
+tumblr_id: 1121206624  
 date: 2002-09-15 19:47:15 UTC
 title: Follow the last hour
 ---

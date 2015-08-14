@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [technology, photography, music, video]
-tumblr_id: 1121196050
-disqus_comments: true
+tumblr_id: 1121196050  
 date: 2008-08-13 15:52:20 UTC
 title: Cut Chemist – 1st Big Break
 ---

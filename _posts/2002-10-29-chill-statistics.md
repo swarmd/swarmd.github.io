@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1121207281
-disqus_comments: true
+tumblr_id: 1121207281  
 date: 2002-10-29 22:47:55 UTC
 title: Chill & Statistics
 ---

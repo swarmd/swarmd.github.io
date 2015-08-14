@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133045396
-disqus_comments: true
+tumblr_id: 1133045396  
 date: 2003-03-12 14:37:43 UTC
 title: madlab's back
 ---

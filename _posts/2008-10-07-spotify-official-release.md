@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [release, spotify]
-tumblr_id: 1121196764
-disqus_comments: true
+tumblr_id: 1121196764  
 date: 2008-10-07 06:09:44 UTC
 title: Spotify Official Release
 ---

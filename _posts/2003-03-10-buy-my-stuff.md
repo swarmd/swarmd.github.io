@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133045238
-disqus_comments: true
+tumblr_id: 1133045238  
 date: 2003-03-10 20:06:11 UTC
 title: Buy my stuff
 ---

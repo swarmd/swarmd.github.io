@@ -1,10 +1,10 @@
 ---
 layout: post
 categories: [release, spotify, monster]
-tumblr_id: 1102106421
-disqus_comments: true
+tumblr_id: 1102106421  
 date: 2010-04-27 07:20:00 UTC
 title: Spotify next generation
+description: "Internally at Spotify, we are calling this the Monster Release. Yeah, green and all, but the thing is that we’ve been working on this release for 6 months."
 ---
 
 [<img src="http://farm4.static.flickr.com/3614/4556571669_8a3c2636b0_z.jpg" width="640" alt="Next generation">](http://www.spotify.com/)

@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133068833
-disqus_comments: true
+tumblr_id: 1133068833  
 date: 2003-07-03 19:07:55 UTC
 title: Mill hired by Benassi
 ---

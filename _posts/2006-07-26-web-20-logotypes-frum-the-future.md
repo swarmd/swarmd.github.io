@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133083603
-disqus_comments: true
+tumblr_id: 1133083603  
 date: 2006-07-26 09:00:00 UTC
 title: Web 2.0 Logotypes frum the Future
 ---

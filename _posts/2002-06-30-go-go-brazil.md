@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1121205494
-disqus_comments: true
+tumblr_id: 1121205494  
 date: 2002-06-30 09:00:00 UTC
 title: Go Go Brazil!
 ---

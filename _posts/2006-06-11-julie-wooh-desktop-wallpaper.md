@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [wallpaper, julie wooh, illustration, desktop]
-tumblr_id: 1133083161
-disqus_comments: true
+tumblr_id: 1133083161  
 date: 2006-06-11 10:00:00 UTC
 title: Julie Wooh Desktop Wallpaper
 ---

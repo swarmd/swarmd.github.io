@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [packaging, food, design]
-tumblr_id: 1102100156
-disqus_comments: true
+tumblr_id: 1102100156  
 date: 2010-02-03 14:01:21 UTC
 title: Beautiful packaging from ChocoLate Orgániko
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133068998
-disqus_comments: true
+tumblr_id: 1133068998  
 date: 2003-07-21 13:22:45 UTC
 title: espresso + updates
 ---

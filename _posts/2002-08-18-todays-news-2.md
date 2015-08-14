@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1121206296
-disqus_comments: true
+tumblr_id: 1121206296  
 date: 2002-08-18 12:33:03 UTC
 title: Todays news
 ---

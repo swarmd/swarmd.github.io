@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133044037
-disqus_comments: true
+tumblr_id: 1133044037  
 date: 2003-01-24 00:52:49 UTC
 title: CampHovden Photos
 ---

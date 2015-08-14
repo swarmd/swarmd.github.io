@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [utility, dropbox, productive, helper, osx]
-tumblr_id: 1111976106
-disqus_comments: true
+tumblr_id: 1111976106  
 date: 2008-02-01 10:22:31 UTC
 title: Dropbox URL helper
 ---

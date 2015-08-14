@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133085999
-disqus_comments: true
+tumblr_id: 1133085999  
 date: 2007-04-21 12:58:49 UTC
 title: Gangster - Årets kanske sämsta film
 ---

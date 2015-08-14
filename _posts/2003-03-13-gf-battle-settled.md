@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133045439
-disqus_comments: true
+tumblr_id: 1133045439  
 date: 2003-03-13 00:52:04 UTC
 title: GF Battle settled
 ---

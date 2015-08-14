@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [tumblr, blog]
-tumblr_id: 1135236931
-disqus_comments: true
+tumblr_id: 1135236931  
 date: 2010-09-17 02:21:00 UTC
 title: Hello Tumblr
 ---

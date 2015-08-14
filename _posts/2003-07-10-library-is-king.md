@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133068887
-disqus_comments: true
+tumblr_id: 1133068887  
 date: 2003-07-10 19:07:55 UTC
 title: Library is King
 ---

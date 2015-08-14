@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133082522
-disqus_comments: true
+tumblr_id: 1133082522  
 date: 2005-03-17 09:35:20 UTC
 title: Google + OS X?
 ---

@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [interior design, project, yng, archive]
-tumblr_id: 1144848140
-disqus_comments: true
+tumblr_id: 1144848140  
 date: 2010-09-18 19:21:16 UTC
 title: The NK 24 hour-day room
 ---

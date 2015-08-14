@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [redesign, spray, work, identity]
-tumblr_id: 1133083765
-disqus_comments: true
+tumblr_id: 1133083765  
 date: 2006-08-14 09:00:00 UTC
 title: Spray.se redesign
 ---

@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [screensaver, osx, typography]
-tumblr_id: 1133085030
-disqus_comments: true
+tumblr_id: 1133085030  
 date: 2007-03-24 16:51:12 UTC
 title: Screensaver for Typography Lovers
 ---

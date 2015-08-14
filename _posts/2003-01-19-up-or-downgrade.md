@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133043248
-disqus_comments: true
+tumblr_id: 1133043248  
 date: 2003-01-19 10:18:47 UTC
 title: Up or downgrade?
 ---

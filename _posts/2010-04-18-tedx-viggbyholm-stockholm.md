@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [slides, tedx]
-tumblr_id: 1102106477
-disqus_comments: true
+tumblr_id: 1102106477  
 date: 2010-04-18 22:23:33 UTC
 title: TEDx Viggbyholm, Stockholm
 ---

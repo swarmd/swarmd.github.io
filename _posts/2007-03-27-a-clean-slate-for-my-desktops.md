@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133085077
-disqus_comments: true
+tumblr_id: 1133085077  
 date: 2007-03-27 14:19:00 UTC
 title: A Clean Slate for my Desktops
 ---

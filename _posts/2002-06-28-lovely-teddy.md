@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1121205142
-disqus_comments: true
+tumblr_id: 1121205142  
 date: 2002-06-28 09:00:00 UTC
 title: Lovely Teddy
 ---

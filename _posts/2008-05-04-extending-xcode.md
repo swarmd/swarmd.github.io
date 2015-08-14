@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [osx, plugin, xcode, programming, cocoa, objective-c, software]
-tumblr_id: 1121194691
-disqus_comments: true
+tumblr_id: 1121194691  
 date: 2008-05-04 20:21:00 UTC
 title: Extending Xcode
 ---

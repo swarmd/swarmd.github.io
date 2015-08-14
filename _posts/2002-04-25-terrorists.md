@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1121203423
-disqus_comments: true
+tumblr_id: 1121203423  
 date: 2002-04-25 09:00:00 UTC
 title: Terrorists
 ---

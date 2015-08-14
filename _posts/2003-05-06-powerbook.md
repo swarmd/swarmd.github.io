@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133046975
-disqus_comments: true
+tumblr_id: 1133046975  
 date: 2003-05-06 11:15:30 UTC
 title: PowerBook
 ---

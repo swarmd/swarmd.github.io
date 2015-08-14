@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1121207146
-disqus_comments: true
+tumblr_id: 1121207146  
 date: 2002-10-22 23:35:20 UTC
 title: Job of your dreams...
 ---

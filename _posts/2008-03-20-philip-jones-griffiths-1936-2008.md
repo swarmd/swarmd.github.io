@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [magnum, photography, death, photographer, person]
-tumblr_id: 1111979220
-disqus_comments: true
+tumblr_id: 1111979220  
 date: 2008-03-20 11:45:08 UTC
 title: Philip Jones Griffiths 1936-2008
 ---

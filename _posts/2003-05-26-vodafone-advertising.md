@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133047149
-disqus_comments: true
+tumblr_id: 1133047149  
 date: 2003-05-26 12:41:36 UTC
 title: Vodafone Advertising
 ---

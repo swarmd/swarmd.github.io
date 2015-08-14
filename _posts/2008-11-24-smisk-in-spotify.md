@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [python, spotify, smisk, software]
-tumblr_id: 1121197151
-disqus_comments: true
+tumblr_id: 1121197151  
 date: 2008-11-24 00:51:27 UTC
 title: Smisk in Spotify
 ---

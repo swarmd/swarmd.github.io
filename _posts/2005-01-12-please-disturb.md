@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133071446
-disqus_comments: true
+tumblr_id: 1133071446  
 date: 2005-01-12 17:24:18 UTC
 title: please disturb
 ---

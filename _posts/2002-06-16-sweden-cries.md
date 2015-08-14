@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1121204878
-disqus_comments: true
+tumblr_id: 1121204878  
 date: 2002-06-16 09:00:00 UTC
 title: Sweden Cries
 ---

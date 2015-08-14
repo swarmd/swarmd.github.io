@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133043029
-disqus_comments: true
+tumblr_id: 1133043029  
 date: 2003-01-07 11:02:18 UTC
 title: Hanna and Madeleine
 ---

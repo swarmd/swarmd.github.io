@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1133071091
-disqus_comments: true
+tumblr_id: 1133071091  
 date: 2004-10-27 22:27:43 UTC
 title: GTA for nintendo 8-bit
 ---

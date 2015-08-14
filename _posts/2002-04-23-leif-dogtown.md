@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1121203343
-disqus_comments: true
+tumblr_id: 1121203343  
 date: 2002-04-23 09:00:00 UTC
 title: LEIF & Dogtown
 ---

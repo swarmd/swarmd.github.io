@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [cocoa, screencast, ui, cocui, software]
-tumblr_id: 1102105543
-disqus_comments: true
+tumblr_id: 1102105543  
 date: 2009-09-16 00:18:00 UTC
 title: Introduction to Cocui
 ---

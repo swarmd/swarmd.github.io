@@ -3,7 +3,7 @@ title: "Factorial and Fib in Hue"
 layout: post
 tags: programming
 category: hue
-description: "The 'Hello World' of functional programming, in Hue"
+description: "The “Hello World” of functional programming, result type inference, and multiple implementations in Hue"
 comments: yes
 ---
 

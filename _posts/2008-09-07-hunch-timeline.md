@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [timeline, visualization, aggregation, hunch]
-tumblr_id: 1121196449
-disqus_comments: true
+tumblr_id: 1121196449  
 date: 2008-09-07 20:05:50 UTC
 title: Hunch Timeline
 ---

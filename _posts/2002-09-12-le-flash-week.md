@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1121206588
-disqus_comments: true
+tumblr_id: 1121206588  
 date: 2002-09-12 00:36:08 UTC
 title: Le Flash week
 ---

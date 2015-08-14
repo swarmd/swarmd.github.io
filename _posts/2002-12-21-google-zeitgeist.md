@@ -1,7 +1,6 @@
 ---
 layout: post
-tumblr_id: 1121208351
-disqus_comments: true
+tumblr_id: 1121208351  
 date: 2002-12-21 13:01:09 UTC
 title: Google Zeitgeist
 ---

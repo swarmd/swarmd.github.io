@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [offline, work, old, illustration]
-tumblr_id: 1133083014
-disqus_comments: true
+tumblr_id: 1133083014  
 date: 2006-05-06 09:00:00 UTC
 title: Collected Offline products
 ---

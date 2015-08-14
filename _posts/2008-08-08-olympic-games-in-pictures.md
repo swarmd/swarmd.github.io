@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: [beijing, photography, olympic games]
-tumblr_id: 1121195929
-disqus_comments: true
+tumblr_id: 1121195929  
 date: 2008-08-08 13:10:51 UTC
 title: Olympic Games in Pictures
 ---
