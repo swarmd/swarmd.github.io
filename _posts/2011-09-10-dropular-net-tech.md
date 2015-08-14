@@ -11,7 +11,7 @@ I designed Dropular just as I would design a desktop application — the UI and 
 
 Basically, we serve only data from the access point and run almost all code in the client web browser:
 
-[![Figure 1](http://farm7.static.flickr.com/6206/6134826422_2a85b04fe3_o.png)](http://hunch.se/stuff/dropular-tech-1.pdf)
+[![Figure 1](/res/dropular-tech-1.png)](/res/dropular-tech-1.pdf)
 
 When a client visits dropular.net, three files are sent as the response: *index.html*, *index.css* and *index.js* — view, layout and logic, respectively.
 
@@ -23,7 +23,7 @@ Oui provides a CommonJS module interface and [groups together LESS/CSS, JS and H
 
 First, let's have a look at the actual product and experience (since it's invite-only). This is a screen cast of me using the current, live website:
 
-<iframe width="640" height="390" src="https://www.youtube.com/embed/N7l1OF0Pjn0?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="740" height="451" src="https://www.youtube.com/embed/N7l1OF0Pjn0?rel=0&amp;hd=1" frameborder="0" allowfullscreen></iframe>
 
 Now, here's a redacted snapshot of the Dropular source code: [https://github.com/rsms/dropular-2010](https://github.com/rsms/dropular-2010). Note that this code depends on [oui](https://github.com/rsms/oui) and a few other open source projects.
 
@@ -33,7 +33,7 @@ Now, here's a redacted snapshot of the Dropular source code: [https://github.com
 
 Authentication is performed in a two-step process, allowing an intermediate representation to be cached in the client, enabling automatic fail-over to other access points and automatic login when later visiting the site.
 
-[![Figure 2](http://farm7.static.flickr.com/6067/6137952991_dc8f75da5d_o.png)](http://hunch.se/stuff/dropular-tech-2.pdf)
+[![Figure 2](/res/dropular-tech-2.png)](/res/dropular-tech-2.pdf)
 
 *It goes a little something like this:*
 
@@ -183,7 +183,7 @@ As any app that centralizes data, authentication, etc, you need something to ser
 
 The Oui app kit supports virtually an infinite number of access points to be used, making this approach of running all the logic in the client an extremely scalable solution.
 
-[![Figure 3](http://farm7.static.flickr.com/6158/6139077631_9a7445b055_o.png)](http://hunch.se/stuff/dropular-tech-3.pdf)
+[![Figure 3](/res/dropular-tech-3.png)](/res/dropular-tech-3.pdf)
 
 — Just add as many access points as you need, effectively scaling close-to linearly (at least as close to linear as your backend dependencies allow).
 

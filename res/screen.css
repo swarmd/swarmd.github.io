@@ -165,8 +165,8 @@ div.content.photo {
   
   div.content img, div.content iframe { display:block; max-width:100%; margin:1em 0; }
   div.content iframe { border:none; }
-  div.content *[align=right] { margin:0 0 1em 1em; }
-  div.content *[align=left] { margin:0 1em 1em 0; }
+  div.content *[align="right"] { margin:0 0 1em 1.5em; }
+  div.content *[align="left"] { margin:0 1.5em 1em 0; }
 
   /*div.post strong { font-weight:inherit; background:#FBF4B1; }*/
   div.content li { margin-left: 2em; margin-bottom:0.3em; }
@@ -624,18 +624,31 @@ footer {
 
   pre, code, tt { font-size:11px; }
   
-  div.content { padding:3em 1em; font-size:1.1em; }
-  div.content blockquote { padding-left:2.5em; margin-left:-1em; }
-  div.content div.quotation blockquote { margin-left:0px; }
-  div.content:not(.sub) h1:first-child { font-size:210%; }
-  div.content pre {
-    margin: 0 -1em;
-    padding:1em;
-    background-color: #eee;
-    border-left: none;
-    border-top: 1px solid #ddd;
-    border-bottom: 1px solid #ddd;
-  }
+  div.content { padding:3em 1.4em; font-size:0.9em; }
+    div.content blockquote { padding-left:2.5em; margin-left:-1em; }
+    div.content div.quotation blockquote { margin-left:0px; }
+    div.content:not(.sub) h1:first-child { font-size:210%; }
+    div.content pre {
+      margin: 0 -1em;
+      padding:1em;
+      background-color: #eee;
+      border-left: none;
+      border-top: 1px solid #ddd;
+      border-bottom: 1px solid #ddd;
+    }
+    div.content *[align="right"] {
+      display:block;
+      float:none;
+      margin-left:0;
+    }
+    div.content *[align="right"][width$="%"] {
+      display:inline-block;
+      float:right;
+      margin-left:1em;
+    }
+    div.content *[align="right"][width="50%"] {
+      width:45%;
+    }
 
   a.post-excerpt {
     font-size:80%;
